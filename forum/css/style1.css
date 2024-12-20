@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: monospace;
+}
+
+.header {
+    background: rgb(34, 34, 34);
+    height: 70px;
+}
+
+.header h1 {
+    color: white;
+}
+
+.header li {
+    cursor: pointer;
+    display: inline-block;
+}
+
+.header a {
+    text-decoration: none;
+    color: white;
+}
+
+.logo {
+    position: relative;
+}
